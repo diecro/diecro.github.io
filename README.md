@@ -22,14 +22,11 @@ Bem-vindo ao meu site pessoal! Aqui compartilho minhas aventuras no mundo da pro
 ### Tecnologias Utilizadas
 
 <image src="https://github.com/user-attachments/assets/06d411c8-5a4b-4579-807d-95b17887090d" alt="Imagem" width="50px" />
-<img src="https://github.com/user-attachments/assets/82dd430f-4e0d-4a31-81bd-5a73e03607b4" alt="Imagem" width="50px" />
-<image src="https://github.com/user-attachments/assets/9727efb3-cd14-4e36-a6cd-115a2e9bfd82 "alt="Imagem" width="50px" />
+<image src="https://github.com/user-attachments/assets/82dd430f-4e0d-4a31-81bd-5a73e03607b4" alt="Imagem" width="50px" />
+<image src="https://github.com/user-attachments/assets/9727efb3-cd14-4e36-a6cd-115a2e9bfd82" alt="Imagem" width="50px" />
 <image src="https://github.com/user-attachments/assets/13ae5395-80dd-4e36-97de-2b42eb0faba7" alt="Imagem" width="50px" />
 
-a {
-    color: inherit; /* Isso vai fazer o link herdar a cor do texto ao redor */
-    text-decoration: none; /* Remove o sublinhado */
-}
+
 
 ### Link do Projeto
 
